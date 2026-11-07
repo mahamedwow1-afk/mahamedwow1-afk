@@ -2,8 +2,8 @@
 
 <div align="center">
   
-![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=mahamedwow1-afk&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahamedwow1-afk&layout=compact&theme=dark)
+![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=mahamedwow1-afk&show_icons=true&theme=dark&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahamedwow1-afk&layout=compact&theme=dark&langs_count=8)
 [![GitHub Views](https://komarev.com/ghpvc/?username=mahamedwow1-afk&color=blue&style=flat)](https://github.com/mahamedwow1-afk)
 
 </div>
@@ -57,7 +57,7 @@ I build **automation tools** and create **visual stories**. My passion lies at t
 
 ## 📬 Connect With Me
 
-- 🌐 **Portfolio**: [mahamedyasser.dev](https://mahamedyasser.dev) *(coming soon)*
+- 🌐 **Portfolio**: [mahamed-yasser-3d.pages.dev](https://mahamed-yasser-3d.pages.dev/)
 - 📧 **Email**: [mahamedyasser@proton.me](mailto:mahamedyasser@proton.me)
 - 💼 **LinkedIn**: [linkedin.com/in/mahamedyasser](https://linkedin.com/in/mahamedyasser) *(coming soon)*
 - 🐦 **Twitter/X**: [@mahamedwow1](https://twitter.com/mahamedwow1) *(coming soon)*
@@ -69,7 +69,7 @@ I build **automation tools** and create **visual stories**. My passion lies at t
 <div align="center">
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahamedwow1-afk&theme=dark&background=0d1117&border=30363d)
-![GitHub Contributions](https://github-readme-activity-graph.herokuapp.com/graph?username=mahamedwow1-afk&continue_area=true&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=mahamedwow1-afk&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true)
 
 </div>
 
@@ -78,5 +78,5 @@ I build **automation tools** and create **visual stories**. My passion lies at t
 <div align="center">
   Made with ❤️ by Mahamed Yasser
   
-![Visitor Count](https://profile-counter.glitch.me/mahamedwow1-afk/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=mahamedwow1-afk&color=blue&style=flat)
 </div>
